@@ -71,5 +71,3 @@ if (typeof process.stdin.setRawMode == 'function') {
   tty.setRawMode(true);
 }
 process.stdin.resume();
-Status API Training Shop Blog About Pricing
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
